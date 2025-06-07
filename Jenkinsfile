@@ -27,5 +27,7 @@ pipeline{
         sh 'gradle run'
       }
     }
+  }
+}
 
   
